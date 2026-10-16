@@ -1,12 +1,10 @@
 # Hi, I'm Klakh 👋
 
 I build and run small self-hosted apps for my friends and family, on a server at home: a shared
-dashboard, photo backup, and the tools around them. Most of it is private; a few pieces are public:
+dashboard, photo backup, and the tools around them. Most of it is private; public so far:
 
 - **[LCDHost Revival](https://github.com/LokLakh-s/LCDHost-Revival)** brings LCDHost, the plugin
   manager for Logitech G15/G19 LCD screens abandoned in 2016, back to life on today's systems (GPL v3).
-- **[status-page](https://github.com/Klakh/status-page)** is the uptime page of that home server,
-  fed by a Raspberry Pi.
 
 ## Sponsoring
 
